@@ -1,0 +1,42 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "Pixys-merlin/device_motorola_msm8916-common",
+    "target_path": "device/motorola/msm8916-common",
+    "branch":      "oreo"
+  },
+  {
+    "remote":      "github",
+    "repository":  "hritikutekar/kernel_motorola_msm8916",
+    "target_path": "kernel/motorola/msm8916",
+    "branch":      "aex"
+  },
+  {
+    "repository":  "proprietary_vendor_motorola",
+    "target_path": "vendor/motorola"
+  },
+  {
+    "remote":      "github",
+    "repository":  "LineageOS/android_external_bson",
+    "target_path": "external/bson",
+    "branch":      "cm-14.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch":      "lineage-15.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "LineageOS/android_external_sony_boringssl-compat",
+    "target_path": "external/sony/boringssl-compat",
+    "branch":      "lineage-15.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "dev-harsh1998/GCC_BUILDS",
+    "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi-7.3",
+    "branch":      "master"
+  }
+]

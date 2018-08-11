@@ -1,2 +1,4 @@
-add_lunch_combo aosp_merlin-userdebug
+add_lunch_combo pixys_merlin-eng
+add_lunch_combo pixys_merlin-user
+add_lunch_combo pixys_merlin-userdebug
 
